@@ -3,8 +3,8 @@ title: Emocionalna kompetentnost
 category: emocije
 # ovo je i meta desc
 excerpt: Potreba za hranom jedna je od osnovnih ljudskih potreba. Hrana nam je potrebna da zadovoljimo glad, sačuvamo zdravlje i održimo energiju.
-created: 2022-08-12
-date: 2022.08.12
+created: 2021-12-23
+date: 2021.12.23
 image: emocionalna-kompetentnost.jpg
 imageTwo:
   path: /emocionalna-kompetentnost.jpg
