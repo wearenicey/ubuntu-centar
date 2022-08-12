@@ -1,0 +1,33 @@
+# Users' browser will be forced to visit the HTTPS version of your web app
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [R,L]
+Header set Strict-Transport-Security "max-age=31536000; includeSubDomains"
+
+
+# Permanents redirections (301)
+Redirect 301 https://www.ubuntucentar.com/savetovaliste-u-beogradu/ /savetovaliste-beograd/
+Redirect 301 https://www.ubuntucentar.com/blog/samopovredivanje/ /blog/nefunkcionalna-ponasanja/samopovredjivanje/
+Redirect 301 http://www.ubuntucentar.com/uncategorized/emocionalna-glad/feed/ /blog/emocije/emocionalna-glad/
+Redirect 301 https://www.ubuntucentar.com/uncategorized/uvod-u-osnovne-emocije-sreca/ /blog/emocije/uvod-u-osnovne-emocije-sreca/
+Redirect 301 https://www.ubuntucentar.com/uncategorized/osnovni-principi-transakcione-analize/ /blog/psihoterapijski-pravci/osnovni-principi-transakcione-analize/
+Redirect 301 https://www.ubuntucentar.com/uncategorized/razlika-izmedu-psihologa-psihijatra-i-psihoterapeuta/feed/ /blog/psihoterapija/razlika-izmedju-psihologa-psihijatra-i-psihoterapeuta/
+Redirect 301 https://www.ubuntucentar.com/savetovaliste-u-novom-sadu/ /savetovaliste-novi-sad/
+Redirect 301 https://www.ubuntucentar.com/uncategorized/psihodrama /blog/psihoterapijski-pravci/psihodorama/
+Redirect 301 https://www.ubuntucentar.com/category/blog/feed/ /blog
+Redirect 301 https://www.ubuntucentar.com/projekti/ /
+Redirect 301 http://www.ubuntucentar.com/o-nama/ /zasto-ubuntu
+Redirect 301 https://www.ubuntucentar.com/uncategorized/sta-su-panicni-napadi-i-zbog-cega-nastaju/feed/ /blog/panicni-napadi/sta-su-panicni-napadi-zbog-cega-nastaju/
+Redirect 301 http://www.ubuntucentar.com/o-nama/ /zasto-ubuntu
+Redirect 301 https://www.ubuntucentar.com/uncategorized/koliko-me-je-do-sada-bolela-psihoterapija/feed/ /blog/psihoterapija/koliko-me-je-do-sada-bolela-psihoterapija/
+Redirect 301 https://www.ubuntucentar.com/comments/feed/ /blog
+Redirect 301 https://www.ubuntucentar.com/uncategorized/metafora-i-sistemska-porodicna-psihoterapija/feed/ /blog/psihoterapijski-pravci/metafora-i-sistemska-porodicna-psihoterapija/
+Redirect 301 http://www.ubuntucentar.com/uncategorized/prokrastinacija-i-sta-sa-njom/feed/ /blog/nefunkcionalna-ponasanja/prokrastinacija-i-sta-sa-njom/
+Redirect 301 https://www.ubuntucentar.com/uncategorized/metafora-i-sistemska-porodicna-psihoterapija/feed/ https://ubuntucentar.com/blog/nefunkcionalna-ponasanja/prokrastinacija-i-sta-sa-njom/
+Redirect 301 http://www.ubuntucentar.com/uncategorized/sta-mozete-ocekivati-od-terapije-i-na-prvoj-seansi/feed/ /blog/psihoterapija/sta-mozete-ocekivati-od-terapije-i-na-prvoj-seansi/
+Redirect 301 http://www.ubuntucentar.com/category/blog/feed/ /blog
+Redirect 301 http://www.ubuntucentar.com/uncategorized/anksioznost/feed/ /blog/anksioznost-i-anksiozni-poremecaji/sta-je-aksioznost/
+Redirect 301 http://www.ubuntucentar.com/author/admin/feed/ /blog
+Redirect 301 https://www.ubuntucentar.com/feed/ /blog
+Redirect 301 http://www.ubuntucentar.com/feed/ /blog
+

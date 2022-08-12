@@ -1,0 +1,32 @@
+User-agent: *
+Disallow: /edukacije/
+Disallow: /blog/aksioznost-tu/
+Sitemap: https://ubuntucentar.com/sitemap.xml
+
+User-agent: adsbot-google
+Disallow: /edukacije/
+Disallow: /blog/aksioznost-tu/
+Sitemap: https://ubuntucentar.com/sitemap.xml
+
+User-agent: Nutch
+Disallow: /edukacije/
+Disallow: /blog/aksioznost-tu/
+Sitemap: https://ubuntucentar.com/sitemap.xml
+
+User-agent: AhrefsBot
+Crawl-delay: 10
+Disallow: /edukacije/
+Disallow: /blog/aksioznost-tu/
+Sitemap: https://ubuntucentar.com/sitemap.xml
+
+User-agent: AhrefsSiteAudit
+Crawl-delay: 10
+Disallow: /edukacije/
+Disallow: /blog/aksioznost-tu/
+Sitemap: https://ubuntucentar.com/sitemap.xml
+
+User-agent: MJ12bot
+Crawl-delay: 10
+
+User-agent: Pinterest
+Crawl-delay: 1

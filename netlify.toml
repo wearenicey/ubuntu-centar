@@ -1,0 +1,153 @@
+[[redirects]]
+  from = "http://ubuntucentar.com/"
+  to = "/"
+  status = 301  
+
+
+[[redirects]]
+  from = "http://www.ubuntucentar.com/"
+  to = "/"
+  status = 301
+
+
+
+[[redirects]]
+  from = "https://www.ubuntucentar.com/"
+  to = "/"
+  status = 301
+
+
+[[redirects]]
+  from = "https://www.ubuntucentar.com/savetovaliste-u-beogradu/"
+  to = "/savetovaliste-beograd/"
+  status = 301
+
+[[redirects]]
+  from = "https://www.ubuntucentar.com/blog/samopovredivanje/"
+  to = "/blog/nefunkcionalna-ponasanja/samopovredjivanje/"
+  status = 301
+
+[[redirects]]
+  from = "https://www.ubuntucentar.com/savetovaliste-u-beogradu/"
+  to = "/savetovaliste-beograd/"
+  status = 301
+  
+[[redirects]]
+  from = "https://www.ubuntucentar.com/author/admin/feed/"
+  to = "/blog/"
+  status = 301
+
+[[redirects]]
+  from = "https://www.ubuntucentar.com/category/blog/feed/"
+  to = "/blog/"
+  status = 301
+
+[[redirects]]
+  from = "https://www.ubuntucentar.com/feed/"
+  to = "/blog/"
+  status = 301
+
+[[redirects]]
+  from = "https://www.ubuntucentar.com/o-nama/"
+  to = "/zasto-ubuntu/"
+  status = 301
+
+[[redirects]]
+  from = "https://www.ubuntucentar.com/savetovaliste-u-novom-sadu/"
+  to = "/savetovaliste-novi-sad/"
+  status = 301
+
+[[redirects]]
+  from = "https://www.ubuntucentar.com/uncategorized/anksioznost/feed/"
+  to = "/blog/anksioznost-i-anksiozni-poremecaji/sta-je-aksioznost/"
+  status = 301  
+
+[[redirects]]
+  from = "https://ubuntucentar.com/anksioznost-i-anksiozni-poremecaji/"
+  to = "/blog/anksioznost-i-anksiozni-poremecaji/sta-je-aksioznost/"
+  status = 301  
+
+[[redirects]]
+  from = "https://www.ubuntucentar.com/uncategorized/emocionalna-glad/feed/"
+  to = "/blog/emocije/emocionalna-glad/"
+  status = 301  
+
+[[redirects]]
+  from = "https://www.ubuntucentar.com/uncategorized/prokrastinacija-i-sta-sa-njom/feed/"
+  to = "/blog/nefunkcionalna-ponasanja/prokrastinacija-i-sta-sa-njom/"
+  status = 301  
+
+[[redirects]]
+  from = "https://www.ubuntucentar.com/uncategorized/sta-mozete-ocekivati-od-terapije-i-na-prvoj-seansi/feed/"
+  to = "/blog/psihoterapija/sta-mozete-ocekivati-od-terapije-i-na-prvoj-seansi/"
+  status = 301  
+
+[[redirects]]
+  from = "https://www.ubuntucentar.com/category/blog/feed/"
+  to = "/blog/"
+  status = 301  
+
+[[redirects]]
+  from = "https://www.ubuntucentar.com/comments/feed/"
+  to = "/blog/"
+  status = 301  
+
+[[redirects]]
+  from = "https://www.ubuntucentar.com/feed/"
+  to = "/blog/"
+  status = 301  
+
+[[redirects]]
+  from = "https://www.ubuntucentar.com/projekti/"
+  to = "/"
+  status = 301  
+
+[[redirects]]
+  from = "https://www.ubuntucentar.com/savetovaliste-u-novom-sadu/"
+  to = "/savetovaliste-novi-sad/"
+  status = 301  
+
+[[redirects]]
+  from = "https://www.ubuntucentar.com/uncategorized/koliko-me-je-do-sada-bolela-psihoterapija/feed/"
+  to = "/blog/psihoterapija/koliko-me-je-do-sada-bolela-psihoterapija/"
+  status = 301  
+
+[[redirects]]
+  from = "https://www.ubuntucentar.com/uncategorized/metafora-i-sistemska-porodicna-psihoterapija/feed/"
+  to = "/blog/psihoterapijski-pravci/metafora-i-sistemska-porodicna-psihoterapija/"
+  status = 301  
+
+[[redirects]]
+  from = "https://www.ubuntucentar.com/uncategorized/osnovni-principi-transakcione-analize/"
+  to = "/blog/psihoterapijski-pravci/osnovni-principi-transakcione-analize/"
+  status = 301  
+
+[[redirects]]
+  from = "https://www.ubuntucentar.com/uncategorized/psihodrama"
+  to = "/blog/psihoterapijski-pravci/psihodorama/"
+  status = 301  
+
+[[redirects]]
+  from = "https://www.ubuntucentar.com/uncategorized/razlika-izmedu-psihologa-psihijatra-i-psihoterapeuta/feed/"
+  to = "/blog/psihoterapija/razlika-izmedju-psihologa-psihijatra-i-psihoterapeuta/"
+  status = 301  
+
+[[redirects]]
+  from = "https://www.ubuntucentar.com/uncategorized/sta-su-panicni-napadi-i-zbog-cega-nastaju/"
+  to = "/blog/panicni-napadi/sta-su-panicni-napadi-zbog-cega-nastaju/"
+  status = 301  
+
+[[redirects]]
+  from = "https://www.ubuntucentar.com/uncategorized/uvod-u-osnovne-emocije-sreca/"
+  to = "/blog/emocije/uvod-u-osnovne-emocije-sreca/"
+  status = 301  
+
+
+[[redirects]]
+  from = "https://ubuntucentar.com/uncategorized/razlika-izmedu-psihologa-psihijatra-i-psihoterapeuta/"
+  to = "/blog/psihoterapija/razlika-izmedju-psihologa-psihijatra-i-psihoterapeuta/"
+  status = 301  
+
+
+
+
