@@ -13,7 +13,7 @@ image_caption: Photo by Josh Spires on Unsplash
 author: author1
 featured: false
 pocetna: false
-path: emocionalna-kompetentnost
+path: emocionalna-gladd
 name: Aloo
 metaDesc: "Potreba za hranom jedna je od osnovnih ljudskih potreba. Hrana nam je potrebna da zadovoljimo glad, sačuvamo zdravlje i održimo energiju."
 ---
