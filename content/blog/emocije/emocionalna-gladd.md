@@ -1,19 +1,19 @@
 ---
-title: Emocionalna gladd
+title: Emocionalna kompetentnost
 category: emocije
 # ovo je i meta desc
 excerpt: Potreba za hranom jedna je od osnovnih ljudskih potreba. Hrana nam je potrebna da zadovoljimo glad, sačuvamo zdravlje i održimo energiju.
-created: 2021-11-26
-date: 2021.11.26
-image: emocionalna-glad.jpg
+created: 2022-08-12
+date: 2022.08.12
+image: emocionalna-kompetentnost.jpg
 imageTwo:
-  path: /emocionalna-glad.jpg
+  path: /emocionalna-kompetentnost.jpg
   alt: "glad za emocijama"
 image_caption: Photo by Josh Spires on Unsplash
 author: author1
 featured: false
 pocetna: false
-path: emocionalna-gladd
+path: emocionalna-kompetentnost
 name: Aloo
 metaDesc: "Potreba za hranom jedna je od osnovnih ljudskih potreba. Hrana nam je potrebna da zadovoljimo glad, sačuvamo zdravlje i održimo energiju."
 ---
